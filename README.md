@@ -36,7 +36,7 @@ Sigue estos pasos para configurar y ejecutar el código:
 - OpenAI API key.
 - Pinecone API key.
 
-  !!!!!!imagen de picone
+  ![imgpicone.png](img/img4.png)
 
 ###  Clona el Repositorio
 ```bash
@@ -204,7 +204,9 @@ git clone https://github.com/tu-usuario/langchain-tutorials.git
    display(Image(graph.get_graph().draw_mermaid_png()))
    ```
 
-   !!!Screentshot grafo
+    ![img2.png](img/img2.png)
+    ![img1.png](img/img1.png)
+    ![img3.png](img/img3.png)
    
 11) **Recuperar documentos y se generan las respuestas**
 
