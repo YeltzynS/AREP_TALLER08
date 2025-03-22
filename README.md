@@ -252,8 +252,12 @@ git clone https://github.com/tu-usuario/langchain-tutorials.git
       ):
     print(f"{step}\n\n----------------\n")
 
-
    from IPython.display import Image, display
 
    display(Image(graph.get_graph().draw_mermaid_png()))
    ```
+### Author
+- Yeltzyn Sierra
+  
+### License
+This project is licensed under the MIT license: see the LICENSE.md file for details.
